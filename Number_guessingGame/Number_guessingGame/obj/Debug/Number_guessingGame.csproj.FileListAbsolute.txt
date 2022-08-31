@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\chash\Number_guessingGame\Number_guessingGame\obj\Debug\Number_guessingGame.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\chash\Number_guessingGame\Number_guessingGame\bin\Debug\Number_guessingGame.exe.config
+C:\Users\hp\Desktop\chash\Number_guessingGame\Number_guessingGame\bin\Debug\Number_guessingGame.exe
+C:\Users\hp\Desktop\chash\Number_guessingGame\Number_guessingGame\bin\Debug\Number_guessingGame.pdb
+C:\Users\hp\Desktop\chash\Number_guessingGame\Number_guessingGame\obj\Debug\Number_guessingGame.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\chash\Number_guessingGame\Number_guessingGame\obj\Debug\Number_guessingGame.exe
+C:\Users\hp\Desktop\chash\Number_guessingGame\Number_guessingGame\obj\Debug\Number_guessingGame.pdb
